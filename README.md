@@ -1,4 +1,4 @@
-# Nextzk<h3 align="center">A passionate backend developer from China</h3>
+# Nexzk<h3 align="center">A passionate backend developer from China</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexzk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on **goframe**
